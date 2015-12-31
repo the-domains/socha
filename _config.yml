@@ -1,7 +1,7 @@
 name: socha
 favicon: null
-layout_spectrum: 0.8521525312680751
-typography_spectrum: 0.21223486494272947
+layout_spectrum: 1
+typography_spectrum: 0.48067
 title: 'FRESH & WILD'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.39856961695477366
-  lightness: 0.938202245393768
-  saturation: 0.8745236373506486
+    - '#020202'
+    - '#d5d1cd'
+    - '#acabb0'
+    - '#323433'
+    - '#6b615c'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.1875
   rhythmicContrast: 0.21422428637742996
 purpose: []
