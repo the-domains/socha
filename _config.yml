@@ -1,0 +1,28 @@
+name: socha
+favicon: null
+layout_spectrum: 0.8521525312680751
+typography_spectrum: 0.21223486494272947
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.39856961695477366
+  lightness: 0.938202245393768
+  saturation: 0.8745236373506486
+  rhythmicContrast: 0.21422428637742996
+purpose: []
